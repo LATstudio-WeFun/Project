@@ -1,10 +1,10 @@
-game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "三字经"; Text ="三字经"; Duration = 10; })
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "三字经"; Text ="启动中"; Duration = 10; })
 
 local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/LATstudio-WeFun/Project/main/OrionLibUI'))()
 
-local Window = OrionLib:MakeWindow({Name = "三字经", HidePremium = false, SaveConfig = true,IntroText = "三字经", ConfigFolder = "Pleasure"})
+local Window = OrionLib:MakeWindow({Name = "三字经", HidePremium = false, SaveConfig = true,IntroText = "三字经", ConfigFolder = "三字经"})
 
-game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "启动成功"; Text ="1.0"; Duration = 10; })
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "三字经"; Text ="启动成功！"; Duration = 10; })
 
 
 local Tab = Window:MakeTab({
