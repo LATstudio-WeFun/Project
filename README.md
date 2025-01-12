@@ -6,7 +6,7 @@
   About Me <a href='https://github.com/LATstudio-WeFun'>here</a>
 </p>
 <p align='center'>
-  LAT Bypass API <a href='http://api-lat.org.christmas/'>here</a>
+  LAT Bypass API <a href='http://lat.66n6.asia/'>here</a>
 </p>
 <p align='center'>
  <a href="https://github.com/LATstudio-WeFun">
@@ -16,7 +16,7 @@
 <br />
 <p align='center'>
  <a href="https://github.com/alexandresanlim/chat-btc">
-    <img width=400 src="http://api-lat.org.christmas/LAT.png" />
+    <img width=400 src="http://lat.66n6.asia/LAT.png" />
   </a>&nbsp;&nbsp;
 </p>
 
