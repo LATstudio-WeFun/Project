@@ -15,7 +15,7 @@
 </p>
 <br />
 <p align='center'>
- <a href="https://github.com/alexandresanlim/chat-btc">
+ <a href="https://github.com/LATstudio-WeFun/Project">
     <img width=400 src="https://bypass.ceo/LAT.png" />
   </a>&nbsp;&nbsp;
 </p>
