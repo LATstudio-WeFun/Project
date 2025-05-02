@@ -6,7 +6,7 @@
   About Me <a href='https://github.com/LATstudio-WeFun'>here</a>
 </p>
 <p align='center'>
-  LAT Bypass API <a href='https://bypass.ceo/'>here</a>
+  BYPASS.CEO <a href='https://bypass.ceo/'>here</a>
 </p>
 <p align='center'>
  <a href="https://github.com/LATstudio-WeFun">
@@ -16,7 +16,7 @@
 <br />
 <p align='center'>
  <a href="https://github.com/LATstudio-WeFun/Project">
-    <img width=400 src="https://bypass.ceo/LAT.png" />
+    <img width=400 src="https://bypass.ceo/LATstudio.png" />
   </a>&nbsp;&nbsp;
 </p>
 
